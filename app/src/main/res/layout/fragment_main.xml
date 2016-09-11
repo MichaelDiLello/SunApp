@@ -33,7 +33,7 @@
     <TextView
         android:layout_width="203dp"
         android:layout_height="wrap_content"
-        android:text="Enter a zip code"
+        android:text="Enter a zip code, Country"
         android:id="@+id/textView"
         android:layout_gravity="left|top" />
 
